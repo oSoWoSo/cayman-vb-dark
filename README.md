@@ -13,9 +13,7 @@ The dark mode functionality comes from DarkReader which can be found here: [http
 To use the Cayman-Dark theme with Github Pages, add the following to your site's `_config.yml`:
 
 ```yml
-theme: lewismiddleton/cayman-dark
-plugins:
-  - jekyll-seo-tag
+remote_theme: lewismiddleton/cayman-dark
 ```
 
 By default pages will be in dark mode however you can make specific pages use light mode. All you need to do is include the following code at the top of your markdown files.
