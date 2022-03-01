@@ -15,11 +15,11 @@ You can find here[vb](https://vb.osowoso.xyz){: .btn-green}
 
 # quickemu
 
-Fork you can find here: >>> [quickemu](https://quickemu.osowoso.xyz)
+Fork you can find here: >>> [quickemu](https://quickemu.osowoso.xyz){: .btn-grey}
 
 # easybasgui
 
-Fork you can find here: >>> [easybashgui](https://easybashgui.osowoso.xyz)
+Fork you can find here: >>> [easybashgui](https://easybashgui.osowoso.xyz){: .btn-red}
 
 
 # repositories hosted on:
