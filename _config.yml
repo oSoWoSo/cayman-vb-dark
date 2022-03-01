@@ -1,4 +1,31 @@
-title: Cayman-Dark Theme
-description: Cayman-Dark is a dark mode adaptation of Cayman.
+# web title
+title: oSoWoSo
+
+# web desription
+description: open Source World Society
+
+# Header buttons for downloads from github repo
 show_downloads: true
+
+# Header buttons link to github repo 
+show_github: true
+#hide_github: true
+
+# Header buttons for google analytics 
 google_analytics:
+
+# web PNG favicon
+favicon: https://webiconspng.com/wp-content/uploads/2017/09/Microsoft-PNG-Image-83610.png
+
+# Theme supports custom buttons
+buttons:
+  - text: oSoWoSo
+    href: https://osowoso.xyz
+
+# Icon shown in header. From Fontawesome https://fontawesome.com/icons?m=free
+icon: fas fa-pencil-alt
+
+# Colour gradient for the header
+#header-colours: 
+#  right: "#8a108c"
+#  left: "#cc580c"
