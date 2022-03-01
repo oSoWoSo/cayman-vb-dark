@@ -13,6 +13,6 @@ jobs:
           ruby-version: 3.2
           bundler-cache: true
       - name: build
-        run: script/bootstrap
+        run: script/bootstrap --trace --incremental
       - name: test
         run: script/cibuild
