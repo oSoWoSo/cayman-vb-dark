@@ -14,23 +14,25 @@ You can find here
 
 #### [vb](https://vb.osowoso.xyz)
 
-
 # quickemu
 
-Fork you can find here: >>> [quickemu](https://quickemu.osowoso.xyz){: .btn-grey}
+Fork you can find here:
+
+#### [quickemu](https://quickemu.osowoso.xyz)
 
 # easybasgui
 
-Fork you can find here: >>> [easybashgui](https://easybashgui.osowoso.xyz){: .btn-red}
+Fork you can find here: >>> 
+#### [easybashgui](https://easybashgui.osowoso.xyz)
 
 
 # repositories hosted on:
 - my personal gitea server
-- prefered ![codeberg](./assets/img/codeberg.png)[codeberg.org](https://codeberg.org/oSoWoSo)
-- or ![disroot](./assets/img/disroot.png)[disroot.org](https://git.disroot.org/oSoWoSo)
-- ![sourcehut](./assets/img/sourcehut.png)[sourcehut](https://hg.sr.ht/~osowoso)
-- ![gitlab](./assets/img/gitlab.png)[gitlab.com](https://gitlab.com/osowoso)
-- needed for contribution ![github](./assets/img/github.png)[github.com](https://github.com/oSoWoSo) :(
+- prefered ![codeberg](./assets/img/codeberg.png)[codeberg.org](https://codeberg.org/oSoWoSo){: .btn-green}
+- or ![disroot](./assets/img/disroot.png)[disroot.org](https://git.disroot.org/oSoWoSo){: .btn-green}
+- ![sourcehut](./assets/img/sourcehut.png)[sourcehut](https://hg.sr.ht/~osowoso){: .btn-green}
+- ![gitlab](./assets/img/gitlab.png)[gitlab.com](https://gitlab.com/osowoso){: .btn-green}
+- needed for contribution ![github](./assets/img/github.png)[github.com](https://github.com/oSoWoSo){: .btn-green} :(
 - waiting for gitea federation support...
 - and looking at git-ssb
 
@@ -42,4 +44,4 @@ _____________________________
 builded with [jekyll](https://jekyllrb.com/)
 
 licensed under
-[EUPL 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
+[EUPL 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12){: .btn-green}

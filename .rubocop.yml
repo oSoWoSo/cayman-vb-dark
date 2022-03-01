@@ -3,9 +3,10 @@ inherit_gem:
     - config/default.yml
 
 AllCops:
+NewCops: enable
   Exclude:
     - _site/**/*
     - vendor/**/*
 
-Layout/LineLength:
-  Enabled: false
+Metrics/LineLength:
+  Enabled: true

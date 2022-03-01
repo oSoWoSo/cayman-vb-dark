@@ -14,7 +14,7 @@ show_github: true
 google_analytics:
 
 # web PNG favicon
-favicon: https://webiconspng.com/wp-content/uploads/2017/09/Microsoft-PNG-Image-83610.png
+favicon: assets/img/osowoso.png
 
 # Theme supports custom buttons
 buttons:
@@ -22,7 +22,7 @@ buttons:
     href: https://osowoso.xyz
 
 # Icon shown in header. From Fontawesome https://fontawesome.com/icons?m=free
-icon: fas fa-pencil-alt
+#icon: fas fa-pencil-alt
 
 # Colour gradient for the header
 #header-colours: 
