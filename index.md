@@ -12,7 +12,7 @@ canonical_url: 'https://osowoso.xyz'
 
 You can find here
 
-#### [vb](https://vb.osowoso.xyz){: .btn-green}
+#### [vb](https://vb.osowoso.xyz)
 
 
 # quickemu
