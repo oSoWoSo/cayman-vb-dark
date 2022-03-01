@@ -14,3 +14,5 @@ gem "bundler","~> 2.3.8"
 gem "html-proofer", "~> 3.0"
 
 gem "rubocop", "~> 0.50"
+
+gem "w3c_validators", "~> 1.3"
