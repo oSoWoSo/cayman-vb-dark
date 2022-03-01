@@ -13,6 +13,6 @@ gem "bundler","~> 2.3.8"
 
 gem "html-proofer", "~> 3.19.3"
 
-gem "rubocop", "~> 0.93.1"
+gem "rubocop", "~> 0.93.1", require: false
 
 gem "w3c_validators", "~> 1.3.6"
