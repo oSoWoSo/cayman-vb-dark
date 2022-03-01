@@ -16,3 +16,4 @@ jobs:
         run: script/bootstrap --trace --incremental
       - name: test
         run: script/cibuild
+      - run: bundle exec rake
