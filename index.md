@@ -10,7 +10,9 @@ canonical_url: 'https://osowoso.xyz'
 
 ## void begginer friendly overlay
 
-You can find here[vb](https://vb.osowoso.xyz){: .btn-green}
+You can find here
+
+#### [vb](https://vb.osowoso.xyz){: .btn-green}
 
 
 # quickemu
