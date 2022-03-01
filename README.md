@@ -1,4 +1,5 @@
 # Cayman-Dark Theme
+[![pages-build-deployment](https://github.com/oSoWoSo/cayman-vb-black/actions/workflows/pages/pages-build-deployment/badge.svg?branch=my)](https://github.com/oSoWoSo/cayman-vb-black/actions/workflows/pages/pages-build-deployment)
 
 *Cayman-Dark is an adaptation of the Cayman Jekyll theme for GitHub Pages.*
 
