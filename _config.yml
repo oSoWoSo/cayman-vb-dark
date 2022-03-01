@@ -5,11 +5,10 @@ title: oSoWoSo
 description: open Source World Society
 
 # Header buttons for downloads from github repo
-show_downloads: true
+#show_downloads: true
 
 # Header buttons link to github repo 
 show_github: true
-#hide_github: true
 
 # Header buttons for google analytics 
 google_analytics:
