@@ -15,5 +15,5 @@ jobs:
       - name: build
         run: script/bootstrap --trace --incremental
       - name: test
-        run: script/cibuild
+        run: script/cibuild --trace --incremental
 
