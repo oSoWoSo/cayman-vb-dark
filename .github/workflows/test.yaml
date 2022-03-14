@@ -1,0 +1,21 @@
+name: test workflow
+on: [push, pull_request]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v6
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.0 # Not needed with a .ruby-version file
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+    #- run: bundle exec rake
+    - name: build
+      run: script/bootstrap --incremental --trace --watch
+    - name: test
+      run: script/cibuild --incremental
