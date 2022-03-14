@@ -1,7 +1,7 @@
 ---
 layout: default
 title: cayman vb dark
-canonical_url: 'https://cayman.osowoso.xyz'
+canonical_url: 'https://cayman.osowoso.org'
 canonical_url: 'https://github.com/pages-themes/cayman'
 ---
 
@@ -11,7 +11,7 @@ canonical_url: 'https://github.com/pages-themes/cayman'
 
 *cayman vb dark is an adaptation of the Cayman Jekyll theme for GitHub Pages.*
 
-You can preview the theme at [https://cayman.osowoso.xyz](https://cayman.osowoso.xyz).
+You can preview the theme at [https://cayman.osowoso.org](https://cayman.osowoso.org).
 
 This uses [Dark Reader](https://github.com/darkreader/darkreader) as a base for the theme, and makes some much-needed tweaks to make the colors more cohesive.
 
@@ -63,4 +63,4 @@ mailto: <zenobit@duck.com>
 
 [up](./)
 
-#### [oSoWoSo](https://osowoso.xyz)
+#### [oSoWoSo](https://osowoso.org)

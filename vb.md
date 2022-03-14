@@ -99,7 +99,7 @@ easy
 ## Interested ?
 [codecollab](https://codecollab.io/@osowoso/vb)
 
-zenobit from [oSoWoSo](https://osowoso.xyz)
+zenobit from [oSoWoSo](https://osowoso.org)
 
 ![merry christmas](/assets/img/void_bg_christmas.png)
 
