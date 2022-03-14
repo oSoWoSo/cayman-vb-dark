@@ -412,7 +412,7 @@ a {
   }
 }
 .btn-blue {
-  background-color: $$header-bg-color;
+  background-color: $header-bg-color;
   &:hover {
     background-color: lighten($ms-blue, 10%);
   }
