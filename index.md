@@ -2,7 +2,6 @@
 layout: default
 title: cayman vb dark
 canonical_url: 'https://cayman.osowoso.org'
-canonical_url: 'https://github.com/pages-themes/cayman'
 ---
 
 # Cayman vb dark Theme
@@ -61,4 +60,4 @@ mailto: <zenobit@duck.com>
 
 [up](./)
 
-#### [oSoWoSo](https://osowoso.org)
+# [oSoWoSo](https://osowoso.org)
