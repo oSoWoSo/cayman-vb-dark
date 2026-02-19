@@ -26,7 +26,9 @@ jobs:
       with:
         ruby-version: '3.4' # Not needed with a .ruby-version, .tool-versions or mise.toml
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-    #- run: bundle exec rake
+    - run: |
+        gem install bundler:2.3.27
+        bundle _2.3.27_ lock
 
     - name: Publish to GPR
       run: |
